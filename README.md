@@ -1,2 +1,1 @@
-# MSDA_DA_Viz
-Repo for MSDA Data Viz course
+## MSDA_DA_Viz
